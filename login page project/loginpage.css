@@ -1,0 +1,79 @@
+body{
+    background-color: ghostwhite;
+    background-size: 1598px;
+    background-repeat: no-repeat;
+    font-family: serif;
+    display: flex;
+    justify-content: center;
+    margin-top:auto;
+}
+.maincointainer{
+    background-color:white;
+    border-radius: 20px;
+    height: 620px;
+    width: 280px;
+    padding: 50px;
+    box-shadow: 5px 5px 5px 5px lightblue;
+}
+input[type=text] {
+    border: none;
+    border-bottom: 2px solid blue;
+    width: 100%;
+}
+input[type=email] {
+    border: none;
+    border-bottom: 2px solid blue;
+    width: 100%;
+}
+input[type=password] {
+    border: none;
+    border-bottom: 2px solid blue;
+    width: 100%;
+
+}
+input[type=tel] {
+    border: none;
+    border-bottom: 2px solid blue;
+    width: 100%;
+}
+input[type=date] {
+    border: none;
+    border-bottom: 2px solid blue;
+    width: 100%;
+}
+label{
+    line-height:2.5 ;
+}
+p{
+    display: inline-block;
+    text-align: center;
+    line-height: 0.5;
+}
+h2{
+    text-align: center;
+    text-shadow: 1px 1px 1px rgb(247, 0, 255);
+    font-family: Verdana;
+    color:rgb(0, 102, 128);
+    line-height: 0.5;
+    margin-top: auto;
+}
+button{
+    color: blue;
+    box-shadow: 2px 2px 2px 2px lightblue;
+
+}
+.span{
+    justify-content: center;
+    text-align: center;
+    letter-spacing: 5px;
+    line-height: 0.2;
+}
+.loginpage{
+    background-color:white;
+    border-radius: 20px;
+    height: 350px;
+    width: 220px;
+    padding: 50px;
+    tab-size: 60px;
+    box-shadow: 5px 5px 5px 5px lightblue;
+}
